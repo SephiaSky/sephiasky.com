@@ -9,7 +9,9 @@ This page is meant to keep you up to date on what game I am currently in develop
 ```markdown
 I have been a on and off in web development but during the pandemic I had sometime to start developing games.
 
-Sadly, I haven't finish most of it due to lack of funding and time. I still need to get some other job to finance myself.
+Sadly, I haven't finish most of it due to lack of funding and time. 
+
+I still need to get some other job to finance myself.
 
 The games I am interested in making are mostly of RPG type game for PC and HTML. 
 
