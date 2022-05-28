@@ -21,7 +21,7 @@ Also, if you want to support my work, you may do so by sending me bitcoin.
 
 Just go to my website www.sephiasky.com. 
 
-If you do, please send a tweet.
+If you do, please send me a tweet.
 ```
 
 ### Support or Contact
