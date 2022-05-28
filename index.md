@@ -26,4 +26,4 @@ If you do, please send me a tweet.
 
 ### Support or Contact
 
-I am too busy, I might not be able to update this blog as ofter or check my social media. But if you want to reach out? You may do so. Contact me [@sephia_sky](https://twitter.com/sephia_sky) or [yt](https://www.youtube.com/c/SephiaSkiesChannel/) and we’ll see what we can do.
+I am too busy, I might not be able to update this blog as ofter as I could or even check my social media regularly. But if you wish to reach out, you may do so. Contact me [@sephia_sky](https://twitter.com/sephia_sky) twitter page or [Youtube channel](https://www.youtube.com/c/SephiaSkiesChannel/) and we’ll see what we can do.
