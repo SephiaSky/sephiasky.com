@@ -7,7 +7,7 @@ This page is meant to keep you up-to-date on what game I am currently working on
 15:23:43 PHST Saturday, 28 May 2022
 
 ```markdown
-I have been a on and off in web development but during the pandemic I had sometime to start developing games.
+Tbh, I have been on/off in game development but during the pandemic I have the time to start making games again.
 
 Currently, I working on simple text base rpg html game. My old projects were buried somewhere. 
 
