@@ -1,37 +1,21 @@
 ## Welcome to my Dev Blog
 
-You can use the [editor on GitHub](https://github.com/SephiaSky/sephiasky.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page is meant to keep you up to date on what game I am currently in development. If you happen to stumble on the site by accident, here is my [website](http://www.sephiasky.com/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### First Ever Blog
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+15:23:43 PHST Saturday, 28 May 2022
 
 ```markdown
-Syntax highlighted code block
+I have been a on and off in web development but during the pandemic I had sometime to start developing games.
 
-# Header 1
-## Header 2
-### Header 3
+Sadly, I haven't finish most of it due to lack of funding and time. I still need to get some other job to finance myself.
 
-- Bulleted
-- List
+The games I am interested in making are mostly of RPG type game for PC and HTML. I might get risky and dabble into the art conjuring up MMORPG of my own but who knows.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Also, if you want to support my work by donation you can always use this [link](http://www.sephiasky.com/). If you do, please let me [know](https://twitter.com/sephia_sky).
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SephiaSky/sephiasky.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am too busy, I might not be able to update this blog as ofter or check my social media. But if you want to reach out? You may do so. Contact me [@sephia_sky](https://twitter.com/sephia_sky) or [yt](https://www.youtube.com/c/SephiaSkiesChannel/) and we’ll see what we can do.
