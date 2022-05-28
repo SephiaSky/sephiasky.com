@@ -11,9 +11,13 @@ I have been a on and off in web development but during the pandemic I had someti
 
 Sadly, I haven't finish most of it due to lack of funding and time. I still need to get some other job to finance myself.
 
-The games I am interested in making are mostly of RPG type game for PC and HTML. I might get risky and dabble into the art conjuring up MMORPG of my own but who knows.
+The games I am interested in making are mostly of RPG type game for PC and HTML. 
 
-Also, if you want to support my work by donation you can always use this [link](http://www.sephiasky.com/). If you do, please let me [know](https://twitter.com/sephia_sky).
+I might get risky and dabble into the art conjuring up MMORPG of my own but who knows.
+
+Also, if you want to support my work by donation you can always use this [link](http://www.sephiasky.com/). 
+
+If you do, please let me [know](https://twitter.com/sephia_sky).
 ```
 
 ### Support or Contact
