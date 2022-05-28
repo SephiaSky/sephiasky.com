@@ -19,9 +19,7 @@ I might get risky and dabble into the art conjuring up an MMORPG of my own but w
 
 Also, if you want to support my work, you may do so by sending me bitcoin. 
 
-Just go to my website www.sephiasky.com. 
-
-If you do, please send me a tweet.
+Just go to my website www.sephiasky.com. If you do, let me know and send me a tweet.
 ```
 
 ### Support or Contact
