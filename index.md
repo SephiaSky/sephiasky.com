@@ -17,9 +17,11 @@ The games I am interested in making are mostly of RPG type game for PC and HTML.
 
 I might get risky and dabble into the art conjuring up MMORPG of my own but who knows.
 
-Also, if you want to support my work by donation you can always use this [link](http://www.sephiasky.com/). 
+Also, if you want to support my work, you may do so by sending me bitcoin. 
 
-If you do, please let me [know](https://twitter.com/sephia_sky).
+Just go to my website www.sephiasky.com. 
+
+If you do, please send a tweet.
 ```
 
 ### Support or Contact
