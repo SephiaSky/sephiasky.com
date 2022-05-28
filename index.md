@@ -1,6 +1,6 @@
 ## Welcome to my Dev Blog
 
-This page is meant to keep you up to date on what game I am currently in development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am sole game developer, primarily interested on making RPG both online and standalone for PC and HTML.
+This page is meant to keep you up-to-date on what game I am currently working on. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am solo game developer, primarily interested on making RPG both online and standalone for PC and HTML.
 
 ### First Ever Blog
 
@@ -9,13 +9,13 @@ This page is meant to keep you up to date on what game I am currently in develop
 ```markdown
 I have been a on and off in web development but during the pandemic I had sometime to start developing games.
 
-Sadly, I haven't finish most of it due to lack of funding and time. 
+Currently, I working on simple text base rpg html game. My old projects were buried somewhere. 
 
-I still need to get some other job to finance myself.
+So, I am starting from scratch. Beside, I still need to keep a day job since I am not making 
 
-The games I am interested in making are mostly of RPG type game for PC and HTML. 
+money developing games. I also experimenting with lots of gaming framework available. 
 
-I might get risky and dabble into the art conjuring up MMORPG of my own but who knows.
+I might get risky and dabble into the art conjuring up an MMORPG of my own but who knows.
 
 Also, if you want to support my work, you may do so by sending me bitcoin. 
 
