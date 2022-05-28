@@ -7,13 +7,13 @@ This page is meant to keep you up-to-date on what game I am currently working on
 15:23:43 PHST Saturday, 28 May 2022
 
 ```markdown
-Tbh, I have been on/off in making games but during the pandemic I have the time to start developing again.
+Tbh, I have been on/off making games but during the pandemic I have the time to start developing again.
 
-Currently, I am working on simple text base rpg html game. My old projects were buried somewhere, gone. 
+Currently, I am working on simple text only html rpg. My old projects were buried somewhere, gone. 
 
-There is an issue where if don't document what you do. Then take long break. When you get back, you forgot 
+There is an issue where if don't document what you do. Then take a long break. When you get back, you realize
 
-how this thing works and where you left of. I also experimenting with lots of gaming framework available. 
+that you don't know how this thing works. I am also experimenting with lots of gaming framework available. 
 
 I might get risky and dabble into the art conjuring up an MMORPG of my own but who knows.
 
