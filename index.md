@@ -9,11 +9,11 @@ This page is meant to keep you up-to-date on what game I am currently working on
 ```markdown
 Tbh, I have been on/off in game development but during the pandemic I have the time to start making games again.
 
-Currently, I working on simple text base rpg html game. My old projects were buried somewhere. 
+Currently, I am working on simple text base rpg html game. My old projects were buried somewhere, gone. 
 
-So, I am starting from scratch. Beside, I still need to keep a day job since I am not making 
+There is an issue where if don't document what you do. Then take long break. When you get back, you forgot how
 
-money developing games. I also experimenting with lots of gaming framework available. 
+this thing works and where you left of. I also experimenting with lots of gaming framework available. 
 
 I might get risky and dabble into the art conjuring up an MMORPG of my own but who knows.
 
