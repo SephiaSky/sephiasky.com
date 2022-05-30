@@ -12,7 +12,7 @@ I spent the whole day yesterday fixing issue I had with my text rpg html game.
 
 I got it to work again. Being able to just transfer your code to new project
 
-and not worry about re-writing the whole thing again is great thing for devs.
+and not worry about re-writing the whole thing again is a great thing for devs.
 
 Also, I am planning to make no-db MMO games with awesome replayability. 
 
