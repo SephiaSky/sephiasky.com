@@ -2,6 +2,21 @@
 
 This page is meant to keep you up-to-date on what game I am currently working on. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone for PC and HTML.
 
+
+### Starting to make HTML Games
+
+13:33:44 PHST Monday, 30 May 2022
+
+```markdown
+spend the whole day yesterday fix an issue I had with my text rpg game.
+
+good thing I manage to fix it quickly. Now, I can start making html games.
+
+I might make no-db MMO games with awesome replayability. 
+
+```
+
+
 ### First Ever Blog
 
 15:23:43 PHST Saturday, 28 May 2022
