@@ -1,6 +1,6 @@
 ## Welcome to my Dev Blog
 
-This page is meant to keep you up-to-date on what is currently game development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone.
+This page is meant to keep you up-to-date on what is currently in game development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone.
 
 ### Last update for 2022
 
