@@ -7,7 +7,7 @@ This page is meant to keep you up-to-date on what is currently in game developme
 10:11:00 PHST Monday, 10 Dec 2022
 
 ```markdown
-* Scrapping HTML games. 
+* Scrapping HTML game project. 
 * Developing offline RPG games for PC and mobile. 
 * Also, I will be updating my website next year.
 ```
