@@ -7,7 +7,8 @@ This page is meant to keep you up-to-date on what is currently game development.
 10:11:00 PHST Monday, 10 Dec 2022
 
 ```markdown
-I got distracted with important things in life. Scrapping HTML games. Opening up developing offline RPG games on PC. Also, I will be updating my [website](http://www.sephiasky.com/) next year.
+I got distracted with important things in life. Scrapping HTML games. Opening up developing offline RPG games on PC. 
+Also, I will be updating my [website](http://www.sephiasky.com/) next year.
 ```
 
 ### Starting to make HTML Games
