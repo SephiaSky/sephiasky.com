@@ -7,8 +7,10 @@ This page is meant to keep you up-to-date on what is currently in game developme
 10:11:00 PHST Monday, 10 Dec 2022
 
 ```markdown
-I got distracted with important things in life. Scrapping HTML games. Opening up developing offline RPG games on PC. 
-Also, I will be updating my [website](http://www.sephiasky.com/) next year.
+* I got distracted with important things in life. 
+* Scrapping HTML games. 
+* Opening up developing offline RPG games on PC. 
+* Also, I will be updating my [website](http://www.sephiasky.com/) next year.
 ```
 
 ### Starting to make HTML Games
@@ -16,7 +18,8 @@ Also, I will be updating my [website](http://www.sephiasky.com/) next year.
 13:33:44 PHST Monday, 30 May 2022
 
 ```markdown
-Reworking on my old html game project. Still thinking of making games for other platforms such mobile and PC.
+* Reworking on my old html game project. 
+* I am still thinking of making games for other platforms such mobile and PC.
 ```
 
 
@@ -25,7 +28,8 @@ Reworking on my old html game project. Still thinking of making games for other 
 15:23:43 PHST Saturday, 28 May 2022
 
 ```markdown
-Getting back to game development. Started [bitcoin donation link](http://www.sephiasky.com/donate.html) to help me. 
+* Getting back to game development. 
+* Started [bitcoin donation link](http://www.sephiasky.com/donate.html) to help me. 
 ```
 
 ### Contact Us
