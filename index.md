@@ -41,4 +41,4 @@ Just go to my website www.sephiasky.com. If you donated a btc, send me a tweet t
 
 ### Contact Us
 
-DM me on my [@sephia_sky](https://twitter.com/sephia_sky) twitter page or [Youtube channel](https://www.youtube.com/c/SephiaSkiesChannel/).
+DM me on my [@sephia_sky](https://twitter.com/sephia_sky) twitter page or follow me on my [Youtube channel](https://www.youtube.com/c/SephiaSkiesChannel/).
