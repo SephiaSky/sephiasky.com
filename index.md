@@ -39,6 +39,6 @@ Also, if you want to support my work, you may do so by sending me bitcoin.
 Just go to my website www.sephiasky.com. If you donated a btc, send me a tweet to let me know.
 ```
 
-### Support or Contact
+### Contact Us
 
-I am too busy, I might not be able to update this blog as ofter as I could or even check my social media regularly. But if you wish to reach out, you may do so. Contact me [@sephia_sky](https://twitter.com/sephia_sky) twitter page or [Youtube channel](https://www.youtube.com/c/SephiaSkiesChannel/) and we’ll see what we can do.
+DM me on my [@sephia_sky](https://twitter.com/sephia_sky) twitter page or [Youtube channel](https://www.youtube.com/c/SephiaSkiesChannel/).
