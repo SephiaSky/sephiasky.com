@@ -10,7 +10,7 @@ This page is meant to keep you up-to-date on what is currently in game developme
 * I got distracted with important things in life. 
 * Scrapping HTML games. 
 * Opening up developing offline RPG games on PC. 
-* Also, I will be updating my [website](http://www.sephiasky.com/) next year.
+* Also, I will be updating my website next year.
 ```
 
 ### Starting to make HTML Games
@@ -29,7 +29,7 @@ This page is meant to keep you up-to-date on what is currently in game developme
 
 ```markdown
 * Getting back to game development. 
-* Started [bitcoin donation link](http://www.sephiasky.com/donate.html) to help me. 
+* Started bitcoin donation link to help me. 
 ```
 
 ### Contact Us
