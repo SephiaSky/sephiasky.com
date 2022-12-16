@@ -7,8 +7,8 @@ This page is meant to keep you up-to-date on what is currently in game developme
 01:19:43 PHST Saturday, 17 Dec 2022
 
 ```markdown
-* Add itch.io store page link
-* Add embedded yt video 
+* Added itch.io store page link
+* Added embedded yt video 
 * Updated bitcoin donation link  
 * Now, I can focus on gaming and making games
 ```
