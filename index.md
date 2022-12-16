@@ -14,7 +14,7 @@ This page is meant to keep you up-to-date on what is currently in game developme
 ```
 
 
-### December 2022
+### December 2022 update
 
 10:11:00 PHST Monday, 10 Dec 2022
 
@@ -24,7 +24,7 @@ This page is meant to keep you up-to-date on what is currently in game developme
 * Also, I will be updating my website next year.
 ```
 
-### Starting to make HTML Games
+### HTML Games
 
 13:33:44 PHST Monday, 30 May 2022
 
