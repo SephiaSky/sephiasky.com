@@ -2,7 +2,19 @@
 
 This page is meant to keep you up-to-date on what is currently in game development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone.
 
-### Last update for 2022
+### Website changes
+
+01:19:43 PHST Saturday, 17 Dec 2022
+
+```markdown
+* Add itch.io store page link
+* Add embedded yt video 
+* Updated bitcoin donation link  
+* Now, I can focus on gaming and making games
+```
+
+
+### December 2022
 
 10:11:00 PHST Monday, 10 Dec 2022
 
