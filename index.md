@@ -2,6 +2,16 @@
 
 This page is meant to keep you up-to-date on what is currently in game development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone.
 
+### New Game - Secrets Of Aletheia
+
+15:03:23 PHST Sunday, 01 Jan 2023
+
+```markdown
+* Uploaded SoA exe file on my itch.io store page
+* Set game on early access, free to play
+* Download link is in my social media page
+```
+
 ### Website changes
 
 01:19:43 PHST Saturday, 17 Dec 2022
