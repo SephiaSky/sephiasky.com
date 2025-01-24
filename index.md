@@ -3,7 +3,7 @@
 This page is meant to keep you up-to-date on what I am currently working on including what upcoming updates to look out for. If you happen to stumble on this site by accident, here is my [website](https://www.sephiasky.com/). My name is Aedric, a solo game developer, primarily interested on making 2D RPG. 
 
 
-### New Game - Secrets Of Aletheia
+### Its a new year 2025 - Coming back!
 
 20 Jan 2025
 
