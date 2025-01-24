@@ -1,6 +1,20 @@
 ## Welcome to my Dev Blog
 
-This page is meant to keep you up-to-date on what is currently in game development. If you happen to stumble on this site by accident, here is my [website](http://www.sephiasky.com/). I am a solo game developer, primarily interested on making RPG both online and standalone.
+This page is meant to keep you up-to-date on what I am currently working on including what upcoming updates to look out for. If you happen to stumble on this site by accident, here is my [website](https://www.sephiasky.com/). My name is Aedric, a solo game developer, primarily interested on making 2D RPG. 
+
+
+### New Game - Secrets Of Aletheia
+
+20 Jan 2025
+
+```markdown
+* added ingame tutorial for SoA
+* set itch.io pricing for the SoA to 10 USD (in early access)
+* created bby meme coin in TON network
+* working on Telegram game
+* launching SoA on microsoft store soon
+* updated all my social media links
+```
 
 ### New Game - Secrets Of Aletheia
 
