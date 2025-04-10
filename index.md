@@ -2,6 +2,19 @@
 
 This page is meant to keep you up-to-date on what I am currently working on including what upcoming updates to look out for. If you happen to stumble on this site by accident, here is my [website](https://www.sephiasky.com/). My name is Aedric, a solo game developer, primarily interested on making 2D RPG. 
 
+### Buboy coin coming soon!
+
+10 April 2025
+
+```markdown
+* will be posting info about my meme coin soon
+* telegram mini game coming soon
+* working on updating itch game page
+* added trade mechanics on SoA
+* added fishing mechanics on SoA
+* point quest system coming soon
+* working on idea for a 2nd RPG maker game
+```
 
 ### Its a new year 2025 - Coming back!
 
