@@ -2,6 +2,18 @@
 
 This page is meant to keep you up-to-date on what I am currently working on including what upcoming updates to look out for. If you happen to stumble on this site by accident, here is my [website](https://www.sephiasky.com/). My name is Aedric, a solo game developer, primarily interested on making 2D RPG. 
 
+### Telegram Bot
+
+24 Jan 2026
+
+```markdown
+* add Support This Page button 
+* telegram bot rework coming soon
+* updated my linktr.ee
+* working on my Second book
+* SOA rework coming out soon
+```
+
 ### Buboy coin coming soon!
 
 10 April 2025
