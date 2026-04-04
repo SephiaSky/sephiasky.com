@@ -2,6 +2,8 @@
 
 This page is meant to keep you up-to-date on what I am currently working on including what upcoming updates to look out for. If you happen to stumble on this site by accident, here is my [website](https://www.sephiasky.com/). My name is Aedric, a solo game developer, primarily interested on making 2D RPG. 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sephiaskygaming)
+
 ### Telegram Bot
 
 24 Jan 2026
