@@ -9,7 +9,6 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 24 Jan 2026
 
 ```markdown
-* add Support This Page button 
 * telegram bot rework coming soon
 * updated my linktr.ee
 * working on my Second book
@@ -21,7 +20,6 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 10 April 2025
 
 ```markdown
-* will be posting info about my meme coin soon
 * telegram mini game coming soon
 * working on updating itch game page
 * added trade mechanics on SoA
@@ -37,7 +35,6 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 ```markdown
 * added ingame tutorial for SoA
 * set itch.io pricing for the SoA to 10 USD (in early access)
-* created bby meme coin in TON network
 * working on Telegram game
 * launching SoA on microsoft store soon
 * updated all my social media links
