@@ -4,13 +4,26 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sephiaskygaming)
 
+
+### 2D RPG Game Dev Focus
+
+6 April 2026
+
+```markdown
+* add ko-fi button on Youtube
+* add ko-fi button on Github
+* completed custom Ruby scripts
+* learning 3D game dev kit
+* plan on making frequent devlogs
+* telegram app dev (on hold)
+```
+
 ### Telegram Bot
 
 24 Jan 2026
 
 ```markdown
 * telegram bot rework coming soon
-* updated my linktr.ee
 * working on my Second book
 * SOA rework coming out soon
 ```
@@ -88,7 +101,6 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 
 ```markdown
 * Getting back to game development. 
-* Started bitcoin donation link to help me. 
 ```
 
 ### Contact Us
