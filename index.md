@@ -4,6 +4,13 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sephiaskygaming)
 
+### 2D SoA Release Date
+
+14 Oct 2026
+
+```markdown
+* planned release by the end of Oct or early Nov
+```
 
 ### 2D RPG Game Dev Focus
 
