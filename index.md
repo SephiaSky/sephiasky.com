@@ -4,6 +4,14 @@ This page is meant to keep you up-to-date on what I am currently working on incl
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/sephiaskygaming)
 
+### SoA Game Release
+
+30 Oct 2026
+
+```markdown
+* SoA full release
+```
+
 ### 2D SoA Release Date
 
 14 Oct 2026
